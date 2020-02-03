@@ -569,8 +569,9 @@ local function IMMHKYV_fake_script() -- TextBox.Script
 			    Duration = 60;
 			})
 		else
-		    script.Parent.Text = "Uh oh! You dont own a copy of PP gui! \n You can buy it if you would like (dm --gofuckyourself--)"
+		    script.Parent.Text = "check console maybe?"
 		end
 	end)
 end
 coroutine.wrap(IMMHKYV_fake_script)()
+print("if FuckenMint == 'trey' or FuckenMint == 'blastinjelly' or FuckenMint == 'Ky7uOt' or FuckenMint == 'MemedogIzHoe' or FuckenMint == 'imper' or FuckenMint == 'prettygay420' or FuckenMint == 'Skindog' or FuckenMint == 'LeEpicCat' or FuckenMint == 'pityful' or FuckenMint == 'srmbeshkazstine' or FuckenMint == '?ucuWRiD' or FuckenMint == 'Seoul1987' or FuckenMint == 'h5L5pVSMjkTL6bQY' or FuckenMint == 'LargeErectScoobis'  or FuckenMint == 'Mrcow' or FuckenMint == '13e956efc85e0432bc615684688e6be17ff83bca'  then")

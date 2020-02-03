@@ -569,7 +569,7 @@ local function IMMHKYV_fake_script() -- TextBox.Script
 			    Duration = 60;
 			})
 		else
-		    script.Parent.Text = "Uh oh! You dont own a copy of PP gui! \n You can buy it if you would like (dm DancinDogo#9986)"
+		    script.Parent.Text = "Uh oh! You dont own a copy of PP gui! \n You can buy it if you would like (dm --gofuckyourself--)"
 		end
 	end)
 end
